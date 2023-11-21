@@ -1,0 +1,17 @@
+.Button{
+  background-color: rgb(255, 255, 255) !important;
+  border: solid thin rgb(233, 49, 79) !important;
+  color: rgb(233, 49, 79) !important;
+  font-weight: 500 !important;
+}
+
+.Button:hover {
+  color: white !important;
+  background-color: rgb(233, 49, 79)!important;
+  border: solid thin white !important;
+}
+
+
+.title {
+  color: rgb(233, 49, 79) !important;
+}

@@ -1,0 +1,19 @@
+.navbar-toggler-icon {
+  background-color: red;
+}
+
+.ButtonSend {
+  background-color: rgb(233, 49, 79) !important;
+  border: solid thin rgb(233, 49, 79) !important;
+  color: white !important;
+  font-weight: 500 !important;
+}
+
+.ButtonSend:hover {
+  background-color: white !important;
+  color: rgb(233, 49, 79) !important;
+  border: solid thin rgb(233, 49, 79) !important;
+}
+
+@media (max-width: 180px) {
+}

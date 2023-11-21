@@ -1,0 +1,21 @@
+.flux {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 0;
+}
+
+.readStatus {
+  width: 7px;
+  height: 7px;
+  background-color: rgb(71, 71, 211);
+  border-radius: 50px;
+}
+
+.emailSelector {
+  margin-left: 3rem;
+  border: solid thin rgba(255, 255, 255, 0.951);
+  background-color: white;
+  border-radius: 5px;
+  border: 'none';
+}
